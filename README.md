@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://abhi0-tech.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-abhi0--tech.github.io-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=070b12" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-abhi0--tech.github.io-00e5ff?style=flat&logo=googlechrome&logoColor=000000&labelColor=070b12" alt="Portfolio" />
   </a>
   <a href="https://discord.com/users/784003206492717086">
-    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=070b12" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=flat&logo=discord&logoColor=ffffff&labelColor=070b12" alt="Discord" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abhi0-tech&style=for-the-badge&color=00e5ff&labelColor=070b12" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhi0-tech&style=flat&color=00e5ff&labelColor=070b12" alt="Profile Views" />
 </p>
 
 ---
@@ -48,14 +48,14 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi0-tech&show_icons=true&bg_color=070b12&title_color=00e5ff&icon_color=00e5ff&text_color=e2e8f0&border_color=1e293b&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0-tech&layout=compact&bg_color=070b12&title_color=00e5ff&text_color=e2e8f0&border_color=1e293b&hide_border=false" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi0-tech&show_icons=true&bg_color=070b12&title_color=00e5ff&icon_color=00e5ff&text_color=e2e8f0&border_color=1e293b&border_radius=14" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0-tech&layout=compact&bg_color=070b12&title_color=00e5ff&text_color=e2e8f0&border_color=1e293b&border_radius=14" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi0-tech&background=070b12&border=1e293b&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi0-tech&background=070b12&border=1e293b&border_radius=14&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b12,50:00e5ff,100:030508&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=100&section=footer" alt="Footer" />
 </p>
